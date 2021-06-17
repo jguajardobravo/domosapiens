@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ClientTCP</string>
+    <string name="buttonText">Enviar a ESP32</string>
+    <string name="TextViewIp">IP a la que quieres conectarte</string>
+    <string name="editTextMensaje">Escribe aquí:</string>
+</resources>
